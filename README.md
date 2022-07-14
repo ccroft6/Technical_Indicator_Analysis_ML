@@ -91,7 +91,7 @@ Leigh Badua
 
 John Batarse
 
-Catherine Croft
+[Catherine Croft](https://www.linkedin.com/in/catherine-croft-4715481aa/)
 
 Jing Pu
 
