@@ -2,7 +2,7 @@
 
 ---
 
-# Technical Indicator Analysis Using Machine Learning Models To Aid Algorithmic Trading Strategies 
+# Technical Indicator Analysis Using Machine Learning Models To Improve Algorithmic Trading Strategies 
 
 **LAUNCH APP**: https://share.streamlit.io/lariannrupp/machine_learning_algorithmic_trading_bot/main/streamlit.py
 
